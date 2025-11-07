@@ -48,6 +48,7 @@
 <img width="960" height="499" alt="Capture d'écran 2025-10-26 231113" src="https://github.com/user-attachments/assets/a18fe4e6-b6b0-41a5-a5f0-c2743f75cc7d" />
 <img width="677" height="431" alt="Capture d'écran 2025-10-26 231205" src="https://github.com/user-attachments/assets/6f22edc2-0dee-4609-ad07-6002a82bbcef" />
 <img width="960" height="473" alt="Capture d'écran 2025-10-26 231232" src="https://github.com/user-attachments/assets/ae6eb026-39b4-4018-b3a6-23c2b897a90f" />
+<img width="950" height="489" alt="Capture d'écran 2025-10-26 231035" src="https://github.com/user-attachments/assets/f303f2ba-2816-4bb4-a58b-8b6847c6828b" />
 
 ---
 
@@ -57,13 +58,13 @@
 
 <img width="960" height="491" alt="Capture d'écran 2025-10-26 231453" src="https://github.com/user-attachments/assets/e478ed56-6240-4c8a-8f8f-384ba8165b1b" />
 <img width="580" height="387" alt="Capture d'écran 2025-10-26 234150" src="https://github.com/user-attachments/assets/7c1a129d-7c64-4c5a-a1e3-6f8395f9edfb" />
-<img width="950" height="489" alt="Capture d'écran 2025-10-26 231035" src="https://github.com/user-attachments/assets/f303f2ba-2816-4bb4-a58b-8b6847c6828b" />
 
 ---
 
 ## Étape : Intégration de Swagger
 <img width="922" height="483" alt="Capture d'écran 2025-10-27 002549" src="https://github.com/user-attachments/assets/ff4b13ec-8db8-4ef5-b82d-2b3580af0e1a" />
 <img width="923" height="497" alt="Capture d'écran 2025-10-27 002538" src="https://github.com/user-attachments/assets/dc9e75d0-ae48-455c-927d-c6320e8d71c5" />
+
 
 
 
